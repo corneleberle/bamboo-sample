@@ -4,7 +4,7 @@
 
     <groupId>com.namics.binaryheadbang</groupId>
     <artifactId>bamboo-sample</artifactId>
-    <version>1.0.1.RELEASE</version>
+    <version>1.0-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
