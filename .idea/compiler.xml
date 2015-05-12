@@ -25,5 +25,8 @@
         <module name="bamboo-sample" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bamboo-sample" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
