@@ -4,7 +4,7 @@
 
     <groupId>com.namics.binaryheadbang</groupId>
     <artifactId>bamboo-sample</artifactId>
-    <version>2.4-SNAPSHOT</version>
+    <version>2.3.0.RELEASE</version>
 
     <properties>
         <!-- use UTF-8 for everything -->
