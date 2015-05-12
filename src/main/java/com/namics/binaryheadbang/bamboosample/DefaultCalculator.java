@@ -7,7 +7,7 @@ public class DefaultCalculator implements Calculator {
 
     @Override
     public int add(int summand1, int summand2) {
-        return summand1 + summand2;
+        return summand1 - summand2;
     }
 
     public static void main(String[] args) {
